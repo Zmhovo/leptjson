@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/zmh5525/Study/leptjson/build",
+    "files.associations": {
+        "stdlib.h": "c"
+    }
+}

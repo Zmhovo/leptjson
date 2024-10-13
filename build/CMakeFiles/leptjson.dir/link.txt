@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/leptjson.dir/src/leptjson.c.o CMakeFiles/leptjson.dir/src/test.c.o -o leptjson 

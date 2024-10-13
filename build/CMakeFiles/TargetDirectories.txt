@@ -1,0 +1,3 @@
+/home/zmh5525/Study/leptjson/build/CMakeFiles/leptjson.dir
+/home/zmh5525/Study/leptjson/build/CMakeFiles/edit_cache.dir
+/home/zmh5525/Study/leptjson/build/CMakeFiles/rebuild_cache.dir
